@@ -1,6 +1,6 @@
-#### Important Components and their props in React Native
+### Important Components and their props in React Native
 
-###### Button Component
+##### Button Component
 The following are the props that are basically used on a button component
 1. title: This is the tile for the button
 2. color: This is the color for the button for iOS and background color for the button for Android
